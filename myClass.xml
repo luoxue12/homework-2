@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="gb2312"?>
+<class>
+<stu id="a001">
+<name>中哥</name>
+<sex>男</sex>
+<age>21</age>
+<grade>优异</grade>
+<intro><![CDATA[爱生活，爱写作]]></intro>
+</stu>
+<stu id="a002">
+<name>郝肥</name>
+<sex>男</sex>
+<age>22</age>
+<grade>优异</grade>
+<intro><![CDATA[爱生活，爱吃鸡]]></intro>
+</stu>
+<stu id="a003">
+<name>小宝贝</name>
+<sex>男</sex>
+<age>20</age>
+<grade>优异</grade>
+<intro><![CDATA[爱生活，爱宝贝]]></intro>
+</stu>
+<stu id="a004">
+<name>黄晶晶</name>
+<sex>男</sex>
+<age>20</age>
+<grade>优异</grade>
+<intro><![CDATA[爱生活，爱撩妹]]></intro>
+</stu>
+</class>
