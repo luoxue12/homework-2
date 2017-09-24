@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--引入DTD去约束该文件-->
+<!DOCTYPE Library SYSTEM 'Library.dtd'>
+<Library>
+		<Book id="001">
+			<Title>白夜行</Title>
+			<Author>东野圭吾</Author>
+			<Price>30.0</Price>
+		</Book>
+		<Member>
+		<Name>
+				<firstname> dongye</firstname>
+				<middlename>gui</middlename>
+				<lastname>wu</lastname>
+		</Name>
+		<Address>
+				<Housenumber>107</Housenumber>
+				<Street>parkstreet</Street>
+				<City>东京</City>
+		</Address>
+
+		</Member>	
+</Library>

@@ -1,0 +1,10 @@
+<!ELEMENT Library(Book,Mebmer)>
+<!ELEMENT Book(Title,Author,Price)>
+<!ATTLIST Book id IMPLIED>
+<!ELEMENT Title(#PCDATA)>
+<!ELEMENT Author(#PCDATA)>
+<!ELEMENT Price(#PCDATA)>
+<!ELEMENT Member(Name,Address)>
+<!ELEMENT Name(#PCDATA)>
+<!ELEMENT Address(#PCDATA)>
+</Library>
